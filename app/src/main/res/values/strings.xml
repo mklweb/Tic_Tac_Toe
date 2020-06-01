@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="oneplayer">1 Player</string>
+    <string name="twoplayer">2 Players</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="imposible">Imposible</string>
+    <string name="info">Info</string>
+    <string name="player">Player</string>
+    <string name="infoTitle">Information</string>
+    <string name="information1">"Developed by mikelWeb"</string>
+    <string name="information2">Contact mklwebak@gmail.com</string>
+    <string name="information3">Enjoy the game!</string>
+    <string name="back">Back</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="start">Start</string>
+</resources>
