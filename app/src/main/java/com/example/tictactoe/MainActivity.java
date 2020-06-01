@@ -10,7 +10,6 @@ import android.widget.Button;
 import android.widget.RadioGroup;
 
 public class MainActivity extends AppCompatActivity {
-
     public static final String EXTRA_MESSAGE1 = "com.example.tictactoe.MESSAGE1";
     public static final String EXTRA_MESSAGE2 = "com.example.tictactoe.MESSAGE2";
 
